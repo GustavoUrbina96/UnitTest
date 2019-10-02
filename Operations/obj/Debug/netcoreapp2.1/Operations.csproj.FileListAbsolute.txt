@@ -1,0 +1,11 @@
+C:\Users\giheraclio\source\repos\UnitTestProject\Operations\bin\Debug\netcoreapp2.1\Operations.deps.json
+C:\Users\giheraclio\source\repos\UnitTestProject\Operations\bin\Debug\netcoreapp2.1\Operations.runtimeconfig.json
+C:\Users\giheraclio\source\repos\UnitTestProject\Operations\bin\Debug\netcoreapp2.1\Operations.runtimeconfig.dev.json
+C:\Users\giheraclio\source\repos\UnitTestProject\Operations\bin\Debug\netcoreapp2.1\Operations.dll
+C:\Users\giheraclio\source\repos\UnitTestProject\Operations\bin\Debug\netcoreapp2.1\Operations.pdb
+C:\Users\giheraclio\source\repos\UnitTestProject\Operations\obj\Debug\netcoreapp2.1\Operations.csprojAssemblyReference.cache
+C:\Users\giheraclio\source\repos\UnitTestProject\Operations\obj\Debug\netcoreapp2.1\Operations.csproj.CoreCompileInputs.cache
+C:\Users\giheraclio\source\repos\UnitTestProject\Operations\obj\Debug\netcoreapp2.1\Operations.AssemblyInfoInputs.cache
+C:\Users\giheraclio\source\repos\UnitTestProject\Operations\obj\Debug\netcoreapp2.1\Operations.AssemblyInfo.cs
+C:\Users\giheraclio\source\repos\UnitTestProject\Operations\obj\Debug\netcoreapp2.1\Operations.dll
+C:\Users\giheraclio\source\repos\UnitTestProject\Operations\obj\Debug\netcoreapp2.1\Operations.pdb
